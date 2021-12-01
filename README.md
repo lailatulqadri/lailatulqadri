@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lailatulqadri
 - 👀 I’m interested in text analytics
 - 🌱 I’m currently learning to identify depression by analysing social media dataset 
-- 💞️ I’m looking to collaborate on depression detection analysis
+- 💞️ I’m looking for depression dataset and looking forward to collaborate on depression detection analysis
 - 📫 My email: lailatul.qadri@ukm.edu.my
 
 <!---
