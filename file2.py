@@ -1,5 +1,6 @@
-from file1 import*
 import streamlit as st
+from file1 import*
+
  
  
 # calling functions
