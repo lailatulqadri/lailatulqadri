@@ -2,4 +2,4 @@ from file1 import *
  
  
 # calling functions
-displayText()
+st.write(displayText())
