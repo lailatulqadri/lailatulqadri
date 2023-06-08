@@ -1,4 +1,4 @@
-from file1 import *
+from file1 import*
 import streamlit as st
  
  
