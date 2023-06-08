@@ -1,2 +1,2 @@
 def displayText(): 
-    print( “Geeks 4 Geeks!”)
+    st.write( “Geeks 4 Geeks!”)
